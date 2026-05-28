@@ -34,7 +34,63 @@ Android-приложение для управления подписками н
 
 ## Скриншоты
 
-_Coming soon_
+### Авторизация
+<p float="left">
+  <img src="screenshots/экран авторизации.png" width="200"/>
+  <img src="screenshots/экран авторизации светлой фон.png" width="200"/>
+  <img src="screenshots/подтверждения номера телефона.png" width="200"/>
+</p>
+
+### Подписки
+<p float="left">
+  <img src="screenshots/Активные подписки.png" width="200"/>
+  <img src="screenshots/Архивные подписки.png" width="200"/>
+  <img src="screenshots/экран подписки.png" width="200"/>
+</p>
+
+### Добавление подписки
+<p float="left">
+  <img src="screenshots/шаблоны подписок.png" width="200"/>
+  <img src="screenshots/категории шаблонов.png" width="200"/>
+  <img src="screenshots/новая подписка 1.png" width="200"/>
+  <img src="screenshots/новая подписка 2.png" width="200"/>
+  <img src="screenshots/новая подписка 3.png" width="200"/>
+  <img src="screenshots/новая подписка шаблон.png" width="200"/>
+</p>
+
+### Дополнительные элементы интерфейса
+<p float="left">
+  <img src="screenshots/стиль иконки.png" width="200"/>
+  <img src="screenshots/bottom sheet уведомления.png" width="200"/>
+  <img src="screenshots/bottom sheet Валюта.png" width="200"/>
+  <img src="screenshots/датапикер.png" width="200"/>
+  <img src="screenshots/timePicker.png" width="200"/>
+</p>
+
+### Аналитика
+<p float="left">
+  <img src="screenshots/экран аналитики.png" width="200"/>
+  <img src="screenshots/экран аналитики 1.png" width="200"/>
+  <img src="screenshots/экран аналитики 2.png" width="200"/>
+  <img src="screenshots/экран графика самых дорогих подписок.png" width="200"/>
+  <img src="screenshots/распределение по валютам.png" width="200"/>
+  <img src="screenshots/распределение по валютам оба.png" width="200"/>
+  <img src="screenshots/Валюта RUB.png" width="200"/>
+  <img src="screenshots/Валюта RUB светлая.png" width="200"/>
+</p>
+
+### Профиль и настройки
+<p float="left">
+  <img src="screenshots/экран профиля.png" width="200"/>
+  <img src="screenshots/экран профиля пользователя.png" width="200"/>
+  <img src="screenshots/Экран Категории.png" width="200"/>
+  <img src="screenshots/Экран Платежные методы.png" width="200"/>
+  <img src="screenshots/добавить категорию.png" width="200"/>
+  <img src="screenshots/добавить платежный метод.png" width="200"/>
+  <img src="screenshots/выбор валюты по умолчанию.png" width="200"/>
+  <img src="screenshots/TimePickerDialog.png" width="200"/>
+</p>
+
 
 ## Требования
 
