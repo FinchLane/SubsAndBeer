@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Subs&amp;Beer</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="login_account">Вход в аккаунт</string>
+    <string name="authorization">Авторизация</string>
+    <string name="enter_phone_number">Введите номер телефона в поле ниже</string>
+    <string name="enter_confirmation_code">Введите код подтверждения</string>
+    <string name="confirmation_code">Код подтверждения</string>
+    <string name="loading_messages_1">Заряжаем уток... почти готово!</string>
+    <string name="loading_messages_2">Утка размышляет... один момент!</string>
+    <string name="loading_messages_3">Подготовка крылышек... миг и всё!</string>
+    <string name="loading_messages_4">Почти там! Утка уже в пути!</string>
+    <string name="loading_messages_5">Мощный клюв решает всё!</string>
+    <string name="loading_messages_6">Всё летит на перьях скорости!</string>
+    <string name="loading_messages_7">Утка думает, как взлететь быстрее...</string>
+    <string name="loading_messages_8">Полет фантазии... осталось чуть-чуть!</string>
+    <string name="loading_messages_9">Ожидание — часть утиной магии!</string>
+    <string name="loading_messages_10">Кря! Почти готово к запуску!</string>
+    <string name="send_call">Сейчас вам поступит звонок, введите последние 4 цифры входящего номера телефона в поле ниже</string>
+    <string name="send_call_v2">Мы позвонили Вам на номер +7%1$s, введите 4 последних цифры номера входящего звонка</string>
+    <string name="send_code_timer">Отправить код повторно %1$s:%2$s</string>
+    <string name="send_code">Отправить код повторно</string>
+    <string name="no_payments_this_month">В этом месяце нет платежей</string>
+</resources>
